@@ -7,7 +7,7 @@
   alt="Typing animation"
 />
 
-<p>Full-stack · AI/ML · Mobile · Backend · Systems — built with clean architecture and security-aware design.</p>
+<p>Full-stack · AI/ML · Mobile · Systems — built with clean architecture and security-aware design.</p>
 
 <a href="https://github.com/lovisticsdev"><img src="https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://x.com/lovisticsdev"><img src="https://img.shields.io/badge/X-0B1020?style=flat-square&logo=x&logoColor=white" /></a>
