@@ -75,9 +75,8 @@ Build clean systems.
 Keep boundaries explicit.
 Make workflows reproducible.
 Design with security and evidence in mind.
-````
+```
 
 Selected work is pinned below.
 
 </div>
-```
