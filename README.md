@@ -20,6 +20,8 @@
 
 ---
 
+<div align="center">
+
 | Area | Skills |
 |---|---|
 | **Full-stack** | REST API design, authentication, persistence, frontend clients, service architecture |
@@ -27,6 +29,8 @@
 | **Mobile** | Native Android, Kotlin/Compose, Flutter, offline-first design |
 | **Systems** | C/C++, sockets, memory management, concurrency, compression, low-level runtimes |
 | **Security** | Identity infrastructure, authorization models, actor-context resolution, audit evidence, JWT |
+
+</div>
 
 ---
 
