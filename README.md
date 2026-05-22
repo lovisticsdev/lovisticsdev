@@ -3,11 +3,9 @@
 # Lovice Ochieng
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;ML+Engineer;Security+Engineer;Full-stack+%C2%B7+Mobile+%C2%B7+Systems+%C2%B7+Security"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=620&lines=Full-stack;AI%2FML;Mobile;Systems;Security;clean+architecture%2C+reproducible+workflows%2C+security-aware+design."
   alt="Typing animation"
 />
-
-<p>Full-stack · AI/ML · Mobile · Systems · Security — clean architecture, reproducible workflows, security-aware design.</p>
 
 <a href="https://github.com/lovisticsdev"><img src="https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://x.com/lovisticsdev"><img src="https://img.shields.io/badge/X-0B1020?style=flat-square&logo=x&logoColor=white" /></a>
