@@ -9,7 +9,6 @@
 
 <p>Built with clean architecture, reproducible workflows, and security-aware design.</p>
 
-<a href="https://github.com/lovisticsdev"><img src="https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://x.com/lovisticsdev"><img src="https://img.shields.io/badge/X-0B1020?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lovisticsdev"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://www.instagram.com/lovisticsdev"><img src="https://img.shields.io/badge/Instagram-0B1020?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
