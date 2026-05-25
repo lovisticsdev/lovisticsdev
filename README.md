@@ -3,7 +3,7 @@
 # Lovice Ochieng
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&prefix=%2F%2F+&lines=Full-stack+Engineer,AI+%2F+ML+Engineer,Mobile+Developer,Systems+Programmer,Security+Engineer"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&prefix=%2F%2F+&lines=Full-stack+engineer,AI+%2F+ML,Mobile,Systems,Security"
   alt="Typing animation"
 />
 
@@ -21,10 +21,10 @@
 
 | Area | Skills |
 |:---|:---|
-| **Full-stack** | REST API design, authentication, data persistence, frontend development, service architecture |
-| **AI / ML** | Model training and evaluation, inference APIs, data pipelines, product ML integration |
-| **Mobile** | Android (Kotlin/Compose), Flutter, offline-first design |
-| **Systems** | C/C++, sockets, memory management, concurrency, IPC, low-level runtimes |
-| **Security** | Identity infrastructure, authorization models, principal resolution, audit logging, JWT |
+| **Full-stack** | REST API design, authentication, persistence, frontend clients, service architecture |
+| **AI / ML** | Model training and evaluation, classification, inference APIs, data pipelines, applied ML integration |
+| **Mobile** | Native Android, Kotlin/Compose, Flutter, offline-first design |
+| **Systems** | C/C++, sockets, memory management, concurrency, compression, low-level runtimes |
+| **Security** | Identity infrastructure, authorization models, actor-context resolution, audit evidence, JWT |
 
 ---
