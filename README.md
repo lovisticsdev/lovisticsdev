@@ -7,7 +7,7 @@
   alt="Typing animation"
 />
 
-<p>Built with clean architecture, reproducible workflows, and security-aware design.</p>
+<p>I build with clean architecture, reproducible workflows, and security-aware design.</p>
 
 <a href="https://x.com/lovisticsdev"><img src="https://img.shields.io/badge/X-0B1020?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lovisticsdev"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
@@ -19,16 +19,12 @@
 
 ---
 
-<div align="center">
-
 | Area | Skills |
-|---|---|
+|:---|:---|
 | **Full-stack** | REST API design, authentication, persistence, frontend clients, service architecture |
 | **AI / ML** | Model training and evaluation, classification, inference APIs, data pipelines, applied ML integration |
 | **Mobile** | Native Android, Kotlin/Compose, Flutter, offline-first design |
 | **Systems** | C/C++, sockets, memory management, concurrency, compression, low-level runtimes |
 | **Security** | Identity infrastructure, authorization models, actor-context resolution, audit evidence, JWT |
-
-</div>
 
 ---
