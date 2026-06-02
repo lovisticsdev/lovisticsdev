@@ -21,10 +21,10 @@
 
 | Area | Skills |
 |:---|:---|
-| **Full-stack** | REST API design, authentication, persistence, frontend clients, service architecture |
-| **AI / ML** | Model training and evaluation, classification, inference APIs, data pipelines, applied ML integration |
-| **Mobile** | Native Android, Kotlin/Compose, Flutter, offline-first design |
-| **Systems** | C/C++, sockets, memory management, concurrency, compression, low-level runtimes |
-| **Security** | Identity infrastructure, authorization models, actor-context resolution, audit evidence, JWT |
+| **Full-stack** | API design, authentication, frontend clients |
+| **AI / ML** | Model training and evaluation, applied ML integration |
+| **Mobile** | Native Android, Kotlin/, Flutter, React Native |
+| **Systems** | sockets, memory management, concurrency, low-level runtimes |
+| **Security** | Identity infrastructure, penetration testing and red teaming, audit evidence|
 
 ---
