@@ -3,7 +3,7 @@
 # Lovice Ochieng
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&prefix=%2F%2F+&lines=Backend+Architecture;Systems+Engineering;Security+Engineering;Product+Engineering;AI+%2F+ML;Mobile"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&prefix=%2F%2F+&lines=Backend+Architecture;Systems+Programming;Security+Engineering;Product+Interfaces;AI+Tooling"
   alt="Typing animation"
 />
 
