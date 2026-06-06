@@ -3,7 +3,7 @@
 # Lovice Ochieng
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&prefix=%2F%2F+&lines=Backend+Architecture;Systems+Engineering;Security+Engineering;Product+Interfaces;Applied+AI+Tooling"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&prefix=%2F%2F+&lines=Backend+Architecture;Systems+Engineering;Security+Engineering;Product+Engineering;AI+%2F+ML+Engineering;Mobile+Engineering"
   alt="Typing animation"
 />
 
@@ -32,12 +32,14 @@
 
 ---
 
-| Area | Focus |
+| Area | Capabilities |
 |:---|:---|
-| **Backend Architecture** | API design, authentication, service boundaries, data modeling |
-| **Systems Engineering** | Real-time systems, networking, concurrency, runtime behavior |
-| **Security Engineering** | Identity infrastructure, access control, audit evidence, threat-aware design |
-| **Product Interfaces** | Frontend clients, user workflows, interface polish, product usability |
-| **Applied AI Tooling** | Model integration, evaluation workflows, automation, developer tooling |
+| **Backend Architecture** | API design, authentication, authorization, data modeling, service boundaries, integration design |
+| **Systems Engineering** | Networking, concurrency, runtime behavior, memory-aware design, protocols, performance-oriented architecture |
+| **Security Engineering** | Identity systems, access control, auditability, threat modeling, penetration testing, red-team thinking |
+| **Product Engineering** | Frontend clients, user workflows, interface structure, responsive UI, usability, end-to-end feature delivery |
+| **AI / ML Engineering** | Model training, evaluation, applied ML integration, automation, intelligent tooling |
+| **Mobile Engineering** | Native and cross-platform application design, mobile UI flows, client-side architecture |
+| **Engineering Practice** | Clean architecture, reproducible workflows, testing, documentation, maintainability, deployment readiness |
 
 ---
