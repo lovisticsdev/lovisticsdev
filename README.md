@@ -1,15 +1,22 @@
+```html
 <div align="center">
 
 # Lovice Ochieng
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&prefix=%2F%2F+&lines=Backend+Architecture;Systems+Programming;Security+Engineering;Product+Interfaces;AI+Tooling"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&prefix=%2F%2F+&lines=Backend+%26+Security+Engineer;Go+%C2%B7+Rust+%C2%B7+TypeScript;PostgreSQL+%C2%B7+Linux+%C2%B7+Docker;Realtime+Systems+%26+Security+Tooling;Solidity+%C2%B7+EVM+%C2%B7+Web3+Security"
   alt="Typing animation"
 />
 
 <p>
-  Full-stack, systems-leaning software engineer building secure,
-  maintainable, production-oriented software.
+  Backend and security-focused software engineer building reliable APIs,
+  realtime systems, security tooling, and production-grade infrastructure
+  with Go, Rust, TypeScript, PostgreSQL, and Linux.
+</p>
+
+<p>
+  Developing a Web3 security track focused on Solidity, EVM internals,
+  smart-contract vulnerabilities, and DeFi protocol risk.
 </p>
 
 <a href="https://x.com/lovisticsdev"><img src="https://img.shields.io/badge/X-0B1020?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -19,3 +26,4 @@
 <a href="https://www.facebook.com/lovisticsdev"><img src="https://img.shields.io/badge/Facebook-0B1020?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
 
 </div>
+```
