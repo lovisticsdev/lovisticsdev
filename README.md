@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Lovice Ochieng
@@ -26,4 +25,3 @@
 <a href="https://www.facebook.com/lovisticsdev"><img src="https://img.shields.io/badge/Facebook-0B1020?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
 
 </div>
-```
