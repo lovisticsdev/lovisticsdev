@@ -3,19 +3,18 @@
 # Lovice Ochieng
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&prefix=%2F%2F+&lines=Backend+%26+Security+Engineer;Go+%C2%B7+Rust+%C2%B7+TypeScript;PostgreSQL+%C2%B7+Linux+%C2%B7+Docker;Realtime+Systems+%C2%B7+APIs+%C2%B7+Infrastructure;Security+Tooling+%C2%B7+Systems+Programming;Solidity+%C2%B7+EVM+%C2%B7+Web3+Security"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&prefix=%2F%2F+&lines=Backend+%26+Security+Engineer;Go+%C2%B7+Rust+%C2%B7+TypeScript;C%2FC%2B%2B+%C2%B7+Python+%C2%B7+Linux;Realtime+Systems+%C2%B7+APIs+%C2%B7+Security+Tooling;Systems+Programming+%C2%B7+Backend+Architecture;Solidity+%C2%B7+EVM+%C2%B7+Web3+Security"
   alt="Typing animation"
 />
 
 <p>
   Backend and security-focused software engineer building reliable APIs,
-  realtime systems, infrastructure tooling, and security-oriented software
-  with Go, Rust, TypeScript, PostgreSQL, Docker, and Linux.
+  realtime systems, security tooling, and infrastructure-oriented software
+  with Go, Rust, TypeScript, C/C++, Python, and Linux.
 </p>
 
 <p>
-  Focused on systems-level engineering, production backend architecture,
-  and Web3 security research across Solidity, EVM internals,
+  Developing a Web3 security track focused on Solidity, EVM internals,
   smart-contract vulnerabilities, and DeFi protocol risk.
 </p>
 
