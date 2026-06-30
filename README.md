@@ -1,7 +1,4 @@
 <div align="center">
-
-# Lovice Ochieng
-
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&prefix=%2F%2F+&lines=Backend+%26+Security+Engineer;Go+%C2%B7+Rust+%C2%B7+TypeScript;C%2FC%2B%2B+%C2%B7+Python+%C2%B7+Linux;Realtime+Systems+%C2%B7+APIs+%C2%B7+Security+Tooling;Systems+Programming+%C2%B7+Backend+Architecture;Solidity+%C2%B7+EVM+%C2%B7+Web3+Security"
   alt="Typing animation"
